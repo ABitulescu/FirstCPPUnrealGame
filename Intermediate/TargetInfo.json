@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstCPPUnrealGame",
+			"Path": "F:\\Unreal Projects\\FirstCPPUnrealGame\\Source\\FirstCPPUnrealGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstCPPUnrealGameEditor",
+			"Path": "F:\\Unreal Projects\\FirstCPPUnrealGame\\Source\\FirstCPPUnrealGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

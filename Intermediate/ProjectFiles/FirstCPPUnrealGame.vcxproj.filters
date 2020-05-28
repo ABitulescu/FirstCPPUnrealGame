@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstCPPUnrealGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6A2FB634-3D75-4264-B742-71CF342D35E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstCPPUnrealGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstCPPUnrealGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E7984E85-459E-4D8B-A72D-8EEDDE021B12}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstCPPUnrealGame">
+      <UniqueIdentifier>{D8557CAC-E002-4493-90C9-00810DDE8E7D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstCPPUnrealGame\FirstCPPUnrealGame.Build.cs">
+      <Filter>Source\FirstCPPUnrealGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstCPPUnrealGame\FirstCPPUnrealGame.cpp">
+      <Filter>Source\FirstCPPUnrealGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstCPPUnrealGame\FirstCPPUnrealGame.h">
+      <Filter>Source\FirstCPPUnrealGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstCPPUnrealGame\FirstCPPUnrealGameGameModeBase.cpp">
+      <Filter>Source\FirstCPPUnrealGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstCPPUnrealGame\FirstCPPUnrealGameGameModeBase.h">
+      <Filter>Source\FirstCPPUnrealGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstCPPUnrealGame\FPSCharacter.cpp">
+      <Filter>Source\FirstCPPUnrealGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstCPPUnrealGame\FPSCharacter.h">
+      <Filter>Source\FirstCPPUnrealGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\FirstCPPUnrealGame\DamageableActor.h">
+      <Filter>Source\FirstCPPUnrealGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\FirstCPPUnrealGame\DamageableActor.cpp">
+      <Filter>Source\FirstCPPUnrealGame</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

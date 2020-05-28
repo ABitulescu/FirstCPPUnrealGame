@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Unreal Projects\\FirstCPPUnrealGame\\Source\\FirstCPPUnrealGame\\FirstCPPUnrealGame.Build.cs",
+		"F:\\Unreal Projects\\FirstCPPUnrealGame\\Source\\FirstCPPUnrealGame.Target.cs",
+		"F:\\Unreal Projects\\FirstCPPUnrealGame\\Source\\FirstCPPUnrealGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.0"
+}
